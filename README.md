@@ -2,6 +2,10 @@
  fix incorrect user-path-inputs
 
 
+# Installation
+`pip install fixpath`
+
+
 # Usage
 ```python
 from fixpath import findpath
